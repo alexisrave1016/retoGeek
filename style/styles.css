@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(215, 210, 231);
+}
+
+.planilla {
+    background-color: rgb(241, 235, 247);
+    margin: 10px;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: baseline;
+
+
+}
+
+.colum1 {
+    width: 145px;
+    margin: 20px 10px 20px 10px;
+   
+}
+
+.colum2 {
+    width: 100px;
+    margin: 20px 10px 20px 10px;
+}
+
+.colum3 {
+    width: 100px;
+    margin: 20px 10px 20px 10px;
+}
+.colum4 {
+    width: 80px;
+    margin: 20px 10px 20px 10px;
+}
